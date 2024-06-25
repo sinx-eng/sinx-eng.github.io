@@ -20,6 +20,16 @@ document.addEventListener('DOMContentLoaded', () => {
             description: "Develop an IoT-based home automation system to control lights, appliances, and security remotely.",
             githubLink: "https://github.com/user/iot-home-automation"
         },
+        {
+            name: "IoT Home Automation System",
+            description: "Develop an IoT-based home automation system to control lights, appliances, and security remotely.",
+            githubLink: "https://github.com/user/iot-home-automation"
+        },
+        {
+            name: "IoT Home Automation System",
+            description: "Develop an IoT-based home automation system to control lights, appliances, and security remotely.",
+            githubLink: "https://github.com/user/iot-home-automation"
+        },
         // Add more projects as needed
     ];
 
