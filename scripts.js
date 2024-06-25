@@ -1,6 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
     const projects = [
         {
+            name: "Pong Game on Nexys 2",
+            description: "A classic arcade game implemented on Nexys 2 XILINX FPGA board",
+            githubLink: "https://sinx-eng.github.io/pongamexilinx.github.io/"
+        },
+        {
             name: "Arduino Weather Station",
             description: "Build a weather station with Arduino to monitor temperature, humidity, and air pressure.",
             githubLink: "https://github.com/user/arduino-weather-station"
